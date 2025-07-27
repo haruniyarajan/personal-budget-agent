@@ -170,13 +170,6 @@ Contributions are welcome! Here are some ways to improve the project:
 - Create mobile app integration
 
 
-## 🙋‍♂️ Support
-
-If you have questions or need help:
-1. Check the [Issues](https://github.com/yourusername/personal-budget-agent/issues) page
-2. Create a new issue if your problem isn't already addressed
-3. Contact me directly through GitHub
-
 ## 🔮 Future Enhancements
 
 - [ ] Web dashboard with charts and graphs
