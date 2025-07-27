@@ -169,9 +169,6 @@ Contributions are welcome! Here are some ways to improve the project:
 - Add bill reminder functionality
 - Create mobile app integration
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙋‍♂️ Support
 
